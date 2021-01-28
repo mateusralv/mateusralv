@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus Alves</h1>
-<h3 align="center">Graduando em Engenharia de Controle e Automação | Estudante de Frontend Developer</h3>
+<h3 align="center"> I'm about to graduate in Control and Automation Engineering at the Universidade Federal de Pernambuco | Learning Frontend Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript, React...**
 
